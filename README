@@ -1,0 +1,9 @@
+exemple d'execution avec mon fichier,
+~$ /tableur.sh -scin ":" -slin "\n" -in fichier -out resutat
+
+Le tableur en entré est 'fichier'
+Ses séparateurs de colonnes : ':'
+				& de lignes : '\n'
+
+Et celui en sortie 'resultat'
+Ses séparateurs sont les même que le fichier d'entrée car il ne sont pas défini en option
